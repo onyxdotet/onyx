@@ -81,9 +81,9 @@ const Hero: React.FC = () => {
           </h1>
 
           <p className="text-lg sm:text-xl lg:text-2xl text-slate-400 max-w-3xl leading-relaxed">
-            We engineer digital experiences that defy expectations. Placeholder
-            Labs bridges the gap between complex backend architecture and
-            stunning frontend design.
+            We engineer digital experiences that defy expectations. Onyx bridges
+            the gap between complex backend architecture and stunning frontend
+            design.
           </p>
 
           <div className="flex flex-wrap gap-4 mt-4 justify-center">
@@ -93,7 +93,6 @@ const Hero: React.FC = () => {
             >
               Get Started <ArrowRight size={18} />
             </a>
-            
           </div>
         </motion.div>
       </div>
